@@ -1,2 +1,5 @@
-#Files currently in use
+# Plaintext
+*.txt
+
+# Files currently in use
 *.txt~
