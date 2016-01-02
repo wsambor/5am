@@ -4,4 +4,4 @@ Music: David Gilmour
 Album: Rattle That Lock
 
 # to decrypt
-$ gpg -d "newWords.txt.gpg"
+$ gpg --armor -d "newWords.txt.asc"
